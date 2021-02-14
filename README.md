@@ -4,7 +4,6 @@
 
 
 
-yarn start   # or npm start
 ```
 
 # Data Source
