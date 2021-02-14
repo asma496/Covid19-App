@@ -2,7 +2,6 @@
 
 
 
-```
 
 **Install dependencies and run the app:**
 
