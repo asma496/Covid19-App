@@ -1,8 +1,5 @@
 
 
-# Demo
-
-## Get started
 
 **Clone the repository:**
 
