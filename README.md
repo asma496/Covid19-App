@@ -1,7 +1,6 @@
 
 
 # Demo
-You can try => [Demo](https://covid19-furkan.netlify.app/)
 
 ## Get started
 
