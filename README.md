@@ -2,7 +2,6 @@
 
 
 
-git clone https://github.com/ffcabbar/react-covid-19-app
 ```
 
 **Install dependencies and run the app:**
