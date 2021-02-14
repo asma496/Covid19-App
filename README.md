@@ -3,7 +3,6 @@
 
 
 
-**Install dependencies and run the app:**
 
 ```sh
 yarn install # or npm install
